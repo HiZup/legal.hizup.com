@@ -1,0 +1,113 @@
+<h2>Politique de confidentialité</h2>
+
+<p>Cette politique de confidentialité régit la manière dont <SITE_NAME> recueille, utilise, conserve et divulgue les renseignements recueillis auprès des ("Utilisateurs") (membres) de <SITE_NAME> à l'adresse <a href="<SITE_URL>" target="_blank"><SITE_URL></a>.<br />
+Cette politique de confidentialité s'applique sur l'ensemble du site, de ses sous-domaines et tous les produits et services offerts par <SITE_NAME>.</p>
+<p>&nbsp;</p>
+
+<p><strong>Renseignements d'identification personnels</strong></p>
+<p>Nous pouvons collecter des informations d'identification personnelle des utilisateurs dans une variété de façons, y compris, mais sans s'y limiter, lorsque les utilisateurs visitent notre site, s'inscrivent sur le site, passer une commande, s'abonner à la newsletter, remplir un formulaire, et en relation avec d'autres activités, services, fonctions ou ressources que nous rendons disponible sur notre site. Les utilisateurs peuvent être demandés, le cas échéant, nom, adresse e-mail, adresse postale. Les utilisateurs peuvent, toutefois, visitez notre site de façon anonyme. Nous recueillons des informations d'identification personnelles auprès des Utilisateurs que si elles soumettent volontairement de tels renseignements. Les utilisateurs peuvent toujours refuser de fournir des informations d'identification personnelle, sauf qu'il ne peut les empêcher de se livrer à des activités du site certaines lois.</p>
+<p>&nbsp;</p>
+
+<p><strong>Informations d'identification non personnelles</strong></p>
+<p>Nous pouvons collecter des informations d'identification non personnelles sur les utilisateurs quand ils interagissent avec notre site. Les informations d'identification non personnelles peuvent inclure le nom du navigateur, le type d'ordinateur et des informations techniques sur les utilisateurs des moyens de connexion à notre site, telles que le système d'exploitation et les fournisseurs de services Internet utilisés et d'autres informations similaires.</p>
+<p>&nbsp;</p>
+
+<p><strong>À propos de l'enregistrement des cookies</strong></p>
+<p><SITE_NAME> peut utiliser des cookies pour améliorer l'expérience de l'utilisateur et la qualité des services que nous vous proposon.<br />
+Ces "cookies" sont des éléments d'information enregistrés sur le disque dur de votre ordinateur ou sur le navigateur.<br />
+Ils permettent de recueillir certaines informations relatives à votre navigation sur notre site et stocke des informations que vous avez saisies durant votre visite, par exemple vous n'avez pas à saisir votre mot de passe plusieurs fois au cours d'une même session, ni, le cas échéant.<br />
+La durée de conservation de ces informations dans votre ordinateur est indéterminée et dépend de votre fréquence de rafraichissement de votre historique. <br />
+Nous vous informons que vous pouvez vous opposer à l'enregistrement de "cookies" en configurant votre navigateur de la manière suivante :<br />
+
+Pour Mozilla Mozilla Firefox :<br />
+1. Choisissez le menu "outil " puis "Options"<br />
+2. Cliquez sur l'icône "vie privée"<br />
+3. Supprimer des cookies spécifiques<br /><br />
+
+
+Pour Microsoft Internet Explorer :<br />
+1. Choisissez le menu "Outils"puis "Options Internet"<br />
+2. Cliquez sur l'onglet "Confidentialité"<br />
+3. Sélectionnez le niveau souhaité à l'aide du curseur.<br /><br />
+
+Pour Opéra :<br />
+1. Choisissez le menu "Fichier">"Préférences"<br />
+2. Vie Privée <br /><br />
+
+Pour Google Chrome :<br />
+1.Choisissez le menu "Clé à molette "<br />
+2.Cliquez sur l'onglet "Options avancées"<br />
+3.Puis sur le bouton "Paramètres de contenu"<br />
+4.Cliquez sur l'onglet "Cookies"<br />
+<br />
+Notez que certaines parties du site peuvent ne pas fonctionner correctement si vous vous opposer à l'enregistrement des "cookies".</p>
+<p>&nbsp;</p>
+
+<p><strong>Comment nous utilisons les informations collectées</strong>
+<p><SITE_NAME> recueille et utilise l'information personnelle des utilisateurs pour les fins suivantes :<br />
+- Pour personnaliser l'expérience de l'utilisateur<br />
+Nous pouvons utiliser l'information dans l'ensemble pour comprendre comment nos utilisateurs utilisent les services et les ressources fournies sur notre site.<br />
+- Afin d'améliorer notre site<br />
+Nous nous efforçons continuellement d'améliorer nos offres site, basé sur les informations et les commentaires que nous recevons de votre part.<br />
+- Pour améliorer le service à la clientèle<br />
+Votre information nous aide à répondre plus efficacement à vos demandes de service à la clientèle et les besoins de soutien.<br />
+- Pour envoyer des courriels<br />
+Nous pouvons vous envoyer des e-mails pour vous informer des nouveautés du site, les informations sur votre compte (nouveau message, nouveau contact, etc.).</p>
+<p>&nbsp;</p>
+
+<p><strong>Comment nous protégeons vos renseignements</strong></p>
+<p>Nous adoptons une collecte approprié des données, de stockage et les pratiques de traitement et les mesures de sécurité pour protéger contre tout accès non autorisé, altération, la diffusion ou la destruction de vos informations personnelles, nom d'utilisateur, mot de passe, informations sur les transactions et les données stockées sur notre site.</p>
+<p>&nbsp;</p>
+
+<p><strong>Le partage de vos renseignements personnels</strong></p>
+<p>Nous ne vendons et ne fournissons aucune information personnelle des utilisateurs à des tiers. Nous pouvons partager des informations génériques des données démographiques mais n'est lié à aucune information d'identification personnelle sur les visiteurs et les utilisateurs avec nos partenaires de confiance, affiliés et les annonceurs pour les raisons décrites ci-dessus. Nous utilisons des fournisseurs de services tiers pour nous aider à exploiter notre entreprise et le site ou gérer des activités en notre nom, telles que l'envoi des bulletins d'information ou d'enquêtes. Nous pouvons partager vos informations avec des tiers à ces fins limitées à condition que vous nous avez donné votre autorisation.</p>
+<p>&nbsp;</p>
+
+<p><strong>Sites Web de tiers</strong></p>
+<p>Les utilisateurs peuvent trouver de la publicité ou autre contenu sur notre site qui pointent vers les sites et services de nos partenaires, fournisseurs, annonceurs, sponsors, donneurs de licences et d'autres tierces parties.<br />
+Nous ne contrôlons pas le contenu ou les liens qui apparaissent sur ces sites et nous ne sommes pas responsables des pratiques employées par les sites Web liés à ou de notre site. En outre, ces sites ou les services, y compris leur contenu et les liens, peuvent être en constante évolution.<br />
+Ces sites et les services peuvent avoir leurs propres politiques de confidentialité et des politiques service à la clientèle.<br />
+La navigation et l'interaction sur tout autre site Web, y compris les sites Web qui ont un lien vers notre site, est soumise aux conditions propres de ce site web et les politiques.</p>
+<p>&nbsp;</p>
+
+<p><strong>Publicité</strong></p>
+<p>Les annonces apparaissant sur notre site peuvent être livrés aux utilisateurs par les partenaires publicitaires, qui peuvent créer des cookies. Ces cookies permettent au serveur publicitaire de reconnaître votre ordinateur chaque fois qu'ils vous envoient une publicité en ligne pour compiler les informations d'identification non personnelles sur vous ou d'autres qui utilisent votre ordinateur.<br />
+Ces informations permettent (entre autres) aux réseaux d'annonces de fournir des publicités ciblées que nous jugeons être les plus intéressantes pour vous.<br />
+Cette politique de confidentialité ne couvre pas l'utilisation des cookies par les annonceurs.</p>
+<p>&nbsp;</p>
+
+<p><strong>Google Adsense</strong></p>
+<p>En tant que prestataire tiers, Google utilise des cookies pour diffuser des annonces sur notre site. Grâce au cookie DART, Google adapte les annonces diffusées aux utilisateurs en fonction de leur navigation sur notre site Web ou d’autres sites. Les utilisateurs peuvent désactiver l’utilisation du cookie DART en se rendant sur la page des règles de confidentialité s’appliquant au réseau de contenu et aux annonces Google : <a href="http://www.google.com/policies/technologies/ads/" target="_blank">http://www.google.com/policies/technologies/ads/</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Conformité avec la loi de l'enfant sur la protection de la vie privée en ligne</strong></p>
+<p>Protéger la vie privée des très jeunes est particulièrement important.<br />
+Pour cette raison les enfants de moins de 13 ans ne peuvent pas s’inscrire sur notre site ni nous fournir d’informations personnelles les concernant.<br />
+Si nous apprenons avoir recueilli de telles informations personnelles d’un enfant de moins de 13 ans, nous supprimerons ces informations dans les plus brefs délais.<br />
+Si vous pensez avoir trouvé des informations provenant d’un enfant de moins de 13 ans sur notre site, veuillez immédiatement nous contacter par le biais de notre formulaire de contact.</p>
+<p>&nbsp;</p>
+
+<p><strong>Protection des données - Data Protection Act 1998</strong></p>
+<p><COMPANY_NAME> est enregistré en vertu de la loi sur la protection des données de 1998 au Royaume-Uni sous le numéro <SITE_ICO_NUMBER>.</p>
+<p>&nbsp;</p>
+
+<p><strong>Changements à cette politique de confidentialité</strong></p>
+<p><SITE_NAME> a le pouvoir discrétionnaire de mettre à jour cette politique de confidentialité à tout moment. Quand nous faisons, nous allons réviser la date mise à jour au bas de cette page.<br />
+Nous encourageons les utilisateurs à consulter régulièrement cette page pour tout changement de rester informé de comment nous vous aidons à protéger les informations personnelles que nous collectons. Vous reconnaissez et acceptez qu'il est de votre responsabilité de réviser cette politique de confidentialité périodiquement et prendre conscience de modifications.</p>
+<p>&nbsp;</p>
+
+<p><strong>Votre acceptation de ces termes</strong></p>
+<p>En utilisant ce site, vous signifiez votre acceptation de cette politique et les <a href="<SITE_TOS_URL>">Conditions d'utilisation</a>. Si vous n'acceptez pas cette politique, s'il vous plaît ne pas utiliser notre site.<br />
+Votre utilisation continue du site après l'affichage des changements à cette politique sera considérée comme votre acceptation de ces changements.</p>
+<p>&nbsp;</p>
+
+<p><strong>Atteinte à votre vie privée.</strong></p>
+<p>Si, à n'importe quel moment, vous pensez que notre site ne respecte pas votre vie privée, veuillez nous en informer en utilisant le formulaire de contact qui se trouve sur ce présent site.<br />
+Nous mettrons tout en oeuvre pour déceler et corriger le problème.<p>
+<p>&nbsp;</p>
+
+<p><strong>Nous contacter</strong></p>
+<p>Si vous avez des questions concernant cette politique de confidentialité, les pratiques de ce site, veuillez nous contacter via notre formulaire de contact</p>
+<p>&nbsp;</p>
+
+<p><small>Ce document a été mis à jour le lundi 17 Janvier 2014.</small></p>

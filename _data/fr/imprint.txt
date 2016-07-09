@@ -1,0 +1,36 @@
+<h2>Mentions légales</h2>
+
+<p>Ces mentions légales s'applique sur l'ensemble du site, ses sous-domaines et des services de <SITE_NAME> à l'adresse : <a href="<SITE_URL>" target="_blank"><SITE_URL></a>.</p>
+<p>&nbsp;</p>
+
+<p><u>Les liens :</u></p>
+<p><SITE_NAME>, ses sous-domaines et ses autres services peuvent comporter des liens pointant vers d'autres sites internet qui n'appartiennent pas à <SITE_NAME>.<br />
+Nous ne contrôlons pas le contenu, les liens ou ressources qui apparaissent sur ces sites et nous ne pourrons en aucun cas être tenue responsable des liens, du contenu, ressources et des pratiques employées par les sites Web liés à nos sites Web.<br />
+En outre, ces sites, ressources ou les services, y compris leur contenu et les liens, peuvent être en constante évolution.<br />
+Ces sites et les services peuvent avoir leurs propres politiques de confidentialité et conditions d'utilisation et nous ne pouvons pas être responsables de la protection de confidentialité des informations que vous fournissez lors de votre visite sur ces sites.<br />
+Vous devez faire preuve de prudence et d'examiner la déclaration de confidentialité applicable au site en question.<br />
+De la même façon, les sites ayant un lien hypertexte avec le présent site et ses autres services ne sont pas sous le contrôle de <SITE_NAME>, qui décline par conséquent toute responsabilité quant à leur contenu et à leur utilisation.<br />
+L'internaute est seul responsable de leur utilisation.</p>
+<p>&nbsp;</p>
+
+<p><u>Droits d'auteur :</u></p>
+<p>La totalité du contenu de ce site Web, de ses sous-domaines et de ses autres services sont protégés par la législation sur les droits d'auteur.<br />
+Aucun élément composant ce site Web, de ses sous-domaines et ses autres services ne peut être copié, reproduit, modifié, réédité, chargé, dénaturé, transmis ou distribué de quelque manière que ce soit, sans la permission écrite préalable de <SITE_URL>.</p>
+<p>&nbsp;</p>
+
+<p><u>Éditeur et coordonnées :</u></p>
+<p><SITE_NAME> est un site détenu et exploité par la société <COMPANY_NAME> enregistré en <COMPANY_REGISTER_COUNTRY_FR> sous le numéro <COMPANY_NUMBER>.<br />
+Le siège social se trouve à <COMPANY_ADDRESS_FR>.</p>
+<p>&nbsp;</p>
+
+<p><u>Directeur de la publication :</u></p>
+<p>Pierre S.<br />
+Contact : support@<SITE_NAME>.</p>
+<p>&nbsp;</p>
+
+<p><u>Hébergement du site :</u></p>
+<p><HOSTING_INFORMATION_FR></p>
+<p>&nbsp;</p>
+
+<p>Pour toutes autres questions ou suggestions, veuillez nous contacter par le biais de notre formulaire de contact.</p>
+ 

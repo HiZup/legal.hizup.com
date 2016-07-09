@@ -1,0 +1,149 @@
+<h2>Conditions Générales d'Utilisation</h2>
+
+<p><strong><SITE_NAME></strong> est d'abord et avant tout un site de divertissement et de détente pour tout public avec forums de discutions, tchat, blogs, sondages, vidéos, photos...</p>
+ 
+<p><strong><u>Définitions :</u></strong></p>
+
+<p><u><SITE_NAME> ou Site :</u><br />
+désigne le site Internet, accessible à l'adresse <SITE_URL>, permettant d'accéder aux Services soumis aux présentes CGU.</p>
+
+<p><u><COMPANY_NAME> :</u><br />
+désigne la société fournissant les Services et dont les coordonnées ce trouvent sur <a href="<SITE_IMPRINT_URL>">la page des informations légales</a>.</p>
+
+<p><u>CGU ou Contrat :</u><br />
+désigne les présentes Conditions Générales d'Utilisation de <SITE_NAME> et accessible en ligne à l'adresse suivante : <SITE_TOS_URL></p>
+
+<p><u>Inscription :</u><br />
+désigne la procédure d'inscription en ligne que l'Utilisateur doit accomplir sur <SITE_NAME> afin de pouvoir accéder au(x) Service(s). Cette Inscription conduit à la création des Identifiants et du Compte Personnel de l'Utilisateur.</p>
+
+<p><u>Service(s) :</u><br />
+désigne l'un ou l'ensemble des services et matériels fournis par <SITE_NAME> et accessibles en ligne à partir du site web « <SITE_URL> » ou directement à partir de l'adresse web du Service considéré et notamment à l'adresse suivante : <SITE_URL>.</p>
+
+<p><u>Contenu(s) :</u><br />
+désigne les informations, données, textes, logiciels, musiques, sons, photographies, images, vidéos, messages, liens hypertexte ou URL et tous autres éléments susceptibles d'être mis en ligne par un Utilisateur et accessibles par les autres Utilisateurs et les Visiteurs.</p>
+
+<p><u>Utilisateur ou Membre(s) :</u><br />
+désigne toute personne physique ou morale accédant au(x) Service(s) pour fournir du Contenu et/ou titulaire d'un Compte Personnel.</p>
+
+<p><u>Visiteur :</u><br />
+désigne toute personne physique ou morale accédant au(x) Service(s) à des fins de consultation.</p>
+
+<p><u>Identifiant :</u><br />
+désigne le pseudonyme (pseudo), ainsi que tout code confidentiel ou mot de passe choisis par l'Utilisateur ou attribués par <SITE_NAME> et permettant à l'Utilisateur de s'identifier afin d'accéder sur le Site et/ou au(x) Service(s).</p>
+
+<p><u>Compte :</u><br />
+désigne l’espace mis à disposition d'un Utilisateur, lui permettant d’accéder à sa messagerie, ses contacts, son abonnement ainsi qu’à son compte où l'Utilisateur pourra gérer, modifier et supprimer ses données personnelles.</p>
+
+<p><u>Profil :</u><br />
+désigne la page publique du Profil de l'Utilisateur et ses informations publique notamment ses photos, commentaires, vidéos, blogs... renseignés par l’Utilisateur et mis à disposition des autres Membres du Site.</p>
+
+<p><SITE_NAME> est libre de modifier, à tout moment, les présentes CGU (Conditions Générales d'Utilisation), afin notamment de prendre en compte toute évolution légale, jurisprudentielle, éditoriale et/ou technique.<br />
+La version qui prévaut est celle qui est accessible en ligne à l'adresse suivante : <SITE_TOS_URL>.<br />
+Tout Utilisateur est donc tenu de vérifier régulièrement les Conditions Générales d'Utilisation.<br />
+En s'inscrivant, il s'engage à respecter, sans réserves, les présentes Conditions Générales d'Utilisation qui suivent :</p>
+<p>&nbsp;</p>
+<p>1) <AGE_PARAGRAPH_FR></p>
+
+<p>2) En devenant Membre de <SITE_NAME> l'Utilisateur s'engage à ne communiquer que des données exactes, complètes et conformes à la réalité et à fournir une adresse e-mail réelle, valide dont l'Utilisateur est effectivement le propriétaire.<br />
+En cas de changement des données communiquées, l'Utilisateur s'engage à la mise à jour de ses données par le biais de son Compte.</p>
+
+<p>3) L'Utilisateur s'engage à demeurer respectueux tout au long de son séjour sur les services du site (les forums, groupes, blogs, messages, tchats...) comme sur l'ensemble du site principal de <SITE_NAME>.<br />
+Sont strictement interdits sur l'ensemble du site et des services de <SITE_NAME> : propos ou diffusion sous quelque forme que ce soit, tous contenus contrevenant aux droits d'autrui ou à caractère diffamatoire, injurieux, obscène, vulgaire, offensant, violent ou incitant à la violence, politique, raciste, harcèlent, haineux, remarques désobligeantes, pornographique, à caractère sexuel, raciste ou xénophobe et de manière générale tout contenu contraire à l'objet de <SITE_NAME>, à toutes les lois et règlements en vigueur et aux bonnes mœurs.<br />
+Les photos, vidéos et toutes informations, données ou fichiers fournis par un Utilisateur à <SITE_NAME> doivent être décents et se rapporter exclusivement à l'Utilisateur.</p>
+
+<p>4) Toute utilisation du Site à des fins commerciales (spam, mailing list, etc.) sera sanctionnée avec possibles recours judiciaires.</p>
+
+<p>5) Internet n'est ni un espace anonyme, ni un espace de non-droit !<br />
+Nous nous réservons la possibilité d'informer votre fournisseur d'accès à Internet et/ou les autorités judiciaires de tout comportement malveillant.<br />
+L'adresse IP de chaque intervenant est enregistrée afin d'aider à faire respecter ces conditions.</p>
+
+<p>6) L'Utilisateur de <SITE_NAME> déclare et reconnaît être conscient que toutes les informations, données, textes, musiques, sons, photographies, images, vidéos, messages ou tous autres contenus qu'ils soient portés à la connaissance du public ou transmis de manière privée, sont sous la seule responsabilité de la personne ayant émis ce Contenu.<br />
+L'Utilisateur seul et non <SITE_NAME>, est entièrement responsable du Contenu qu'il affiche, télécharge, envoie ou transmet de quelque manière que ce soit par les Services. Sauf stipulation contraire expresse dans les présentes, <SITE_NAME> n'exerce pas de contrôle du Contenu transmis via les Services et en conséquence ne garantit pas l'opportunité, la licéité, la probité ou la qualité de ce Contenu.<br />
+En toute hypothèse, <SITE_NAME> ne pourra en aucun cas être tenue pour responsable du Contenu, notamment du caractère illégal du Contenu au regard de la réglementation en vigueur, d'erreur ou d'omission dans tout Contenu, de toute perte ou dommage consécutifs à l'utilisation de tout Contenu affiché, transmis par message instantané ou de toute autre manière via les Services.<br />
+L'Utilisateur s'engage également à respecter les droits des tiers et à ne pas utiliser texte, photographie, vidéos, images ou tout autre élément susceptible de relever le droit d'auteur, du droit des marques ou d'autres droits.<br />
+De même, l'Utilisateur s'interdit de faire la promotion de services concurrents, de harceler d'autres Membres en continuant d'essayer ou en réussissant à communiquer avec toute personne qui lui a clairement demandé de cesser la communication.<br />
+L'Utilisateur est responsable de s'assurer que son comportement avec le Site et avec les autres Membres est légal et est conforme à toutes les lois applicables.</p>
+
+<p>7) Quelle sorte d'informations recueillons-nous ?<br />
+Par l’acceptation des CGU, l'Utilisateur accepte implicitement le traitement des données le concernant par le site <SITE_NAME> entre autre certaines informations susceptibles de révéler l’origine ethnique, la nationalité, la religion, les préférences sexuelles, votre apparence physique, photographie, annonce vocale, vidéo, vos valeurs personnelles de l’Utilisateur.<br />
+Par ce fait l’Utilisateur renonce à tout recours à l’encontre du site <SITE_NAME> concernant une atteinte ou un préjudice résultant de la diffusion d’informations relatives aux informations précitées.<br />
+Par ailleurs, il est précisé que les données telles que les adresses IP sont enregistrées et sont à disposition des services judiciaires en cas d’enquête, et peuvent servir à identifier toutes personnes ne respectant les CGU.<br />
+En outre, certaines informations non personnelles peuvent être également recueillies comme la version du navigateur de l'Utilisateur (Netscape, Internet Explorer, Firefox etc.), la résolution de l'écran, le type de système d'exploitation utilisé (Windows XP, Vista, Mac Os, etc.) et l'adresse IP de l'ordinateur utilisé.<br />
+<SITE_NAME> utilise des cookies destinés à stocker des informations identifiant l'Utilisateur durant la consultation du site et des Services afin de lui éviter de ce connecter à chaque page consultée.<br />
+L'Utilisateur dispose toutefois de la possibilité d'empêcher l'utilisation des cookies en modifiant les options de son navigateur Internet.</p>
+
+<p>8) Résiliation.<br />
+Chaque Utilisateur de <SITE_NAME> dispose à tout moment et sans raison d'un droit d'accès, de rectification et de suppression de toutes les données lui concernant (messages, photos, vidéos, données nominatives…) par le biais son Compte et de ce fait éditer/effacer ses données.<br />
+Pour la suppression complète de son Compte ainsi que la totalité des ses données, l'Utilisateur doit se connecter puis se rendre dans -> Paramètres -> Compte -> Supprimer mon compte.<br />
+En outre <SITE_NAME> se réserve le droit de supprimer ou de bannir un utilisateur en cas de manquement grave aux Conditions Générales d'Utilisation sans avertissement préalable.</p>
+ 
+<p>9) Un Utilisateur ne peut créer deux Comptes.<br /> 
+Les Comptes en double seront supprimés et l'Utilisateur averti puis banni si le besoin se fait sentir.</p>
+
+<p>10) Les propriétaires, les administrateurs et les modérateurs de <SITE_NAME> sont les seules figures d'autorité du Site.<br /> 
+Leur mandat est d’assurer à l’Utilisateur un espace de rencontres et de détente convivial et sympathique. <br />
+En échange, l’Utilisateur leur doit respect comme aux autres Membres.</p>
+
+<p>11) Le Site ne fournira aucune information personnelle à des parties tierces.<br />
+Si l’Utilisateur pense qu'une erreur est survenue à ce sujet, il lui est conseillé d’entrer immédiatement en communication avec nous en utilisant notre formulaire de contact et nous interviendrons dans les plus brefs délais.</p>
+
+<p>12) L’Utilisateur accepte de n'utiliser à aucun moment le Compte d'un autre Membre, le Profil, l'Identifiant d'un autre Membre.<br />
+Si l’Utilisateur suspecte quelqu'un d'utiliser de façon non autorisée son compte ou d'avoir accédé à son mot de passe il est conseillé de nous le signaler immédiatement.<br /> 
+L’Utilisateur est  seul responsable de l'utilisation de son Compte et de son Profil sur <SITE_NAME>.</p>
+
+<p>13) <SITE_NAME> fera tous les efforts pour garantir une qualité optimum de Service.<br />
+Cependant l’Utilisateur a conscience que les contraintes liées à l’Internet ne permettent pas d’éviter les interruptions de Services.<br />
+C'est pourquoi le site <SITE_NAME> ne saurait voir sa responsabilité engagée en raison d’un dysfonctionnement ou d’une impossibilité d’accès imputable au fournisseur d’accès du Membre.<br />
+De ce fait l’Utilisateur ne pourra en aucun cas demander un remboursement partiel ou global de son abonnement, ou d’achat de matériel pour que l’Utilisateur puisse accéder aux Services du site <SITE_NAME>.<br />
+Le site <SITE_NAME> ne garantit pas que son Site et ses Services fonctionnera sans interruptions ou erreurs et peuvent également subir des pannes occasionnelles et certaines erreurs de programmation peuvent êtres provoquées par des mises à jour ou par des événements indépendants de la volonté du site <SITE_NAME>.<br />
+De plus des modifications, suspensions, interruptions ou une dégradation du Service peuvent survenir du fait d'une mauvaise compréhension par l'Utilisateur de l'informatique, d'Internet et du Service, d'une configuration et de matériels informatiques défectueux ou inadéquats, de l'utilisation de navigateurs non compatibles avec le Service, …<br />
+Les informations, contenus et fonctionnalités du Site et des Services de <SITE_NAME> font périodiquement l'objet de modifications.<br />
+Le site <SITE_NAME> peut être amené à apporter, à tout moment, de telles modifications.<br />
+De ce fait le site <SITE_NAME> réserve le droit, à tout moment, de modifier, interrompre temporairement ou de manière permanente tout ou partie du site et/ou Services, et cela sans information préalable aux Membres.<br />
+Le site <SITE_NAME> ne peut être tenu pour responsable de l’exactitude ou l’inexactitude et le non respect des CGU par un Utilisateur, notamment des informations constituant les Profils des Membres.<br />
+Le site <SITE_NAME>, ses propriétaires, ses administrateurs et ses modérateurs ne peuvent en aucun cas être tenus responsable, de quelque manière que ce soit, pour les contenus, actions, informations, données de tiers, messages, échanges, images, vidéos, lien hypertexte, url et toutes autres données qu'un Utilisateur pourrait divulguer, diffuser ou transmettre et il en va de même pour d'éventuels dommages ou dégâts, accidentels ou volontaires, dont un Utilisateur pourrait se plaindre ou subir du fait du comportement d'un autre Utilisateur avec lequel il serait entré en contact par l'intermédiaire du site <SITE_NAME>.<br />
+Le site <SITE_NAME> ne peut, par le nombre de ses Membres, contrôler l’identité réelle et l’âge de l’ensemble de ses Membres.<br />
+<u>Il est de la responsabilité de chaque Utilisateur de prendre toutes les précautions dans ces circonstances.<br />
+Avant de fournir des informations privées à un autre Utilisateur, il est conseillé à l'Utilisateur de s'assurer de ses bonnes intentions.<br />
+Il en va de même avant de rencontrer une personne.<br />
+Il est prudent de le faire dans un endroit public tel qu'un bar, une cafétéria et d'avertir ses proches du lieu et de l’heure de la rencontre.<br />
+Il est recommandé à l'Utilisateur d'être prudent dans ses rencontres et de ne pas idéaliser ses contacts. Il devrait prendre le temps de les connaître après s'être assuré du bien-fondé de la situation.<br />
+De plus il est conseillé à l'Utilisateur d’être vigilant sur les Services du site <SITE_NAME>, et de prévenir au plus vite <SITE_NAME> par le biais de notre formulaire de contact si un Utilisateur lui manque de respect ou viole les CGU.</u></p>
+
+<p>14) Limitation de responsabilité.<br />
+<SITE_NAME> ne peut être tenue responsable de l'utilisation qui serait faite des Services par les Utilisateurs. En particulier, <SITE_NAME> ne peut en aucune façon être responsable au titre des Contenus affichés, mis en ligne, envoyés, reçus ou transmis par les Utilisateurs ou présents sur les Sites Tiers.<br /><br />
+
+L'Utilisateur reconnaît être informé et accepte le fait que <SITE_NAME> ne peut être, à aucun titre, tenue pour responsable de la création, de la modification, de la suppression, ou du défaut de réception, d'émission, de transmission ou de stockage de données des Utilisateurs, relevant de l'unique et entière responsabilité de ces derniers.<br />
+De même, l'Utilisateur reconnaît que <SITE_NAME> demeure libre de modifier à tout moment la dénomination de ses Services en ligne, sans que ceci constitue une modification des présentes et sans que cette modification puisse ouvrir droit à un quelconque recours de la part de l'Utilisateur.<br /><br />
+
+<SITE_NAME> ne fournit aucune garantie expresse ou implicite, en ce y compris, sans que cette énumération ne soit limitative, relative à la continuité des Services, à la performance des Services, à la pérennité des Services, à la conformité ou à la compatibilité d'un Service à un usage spécifique, à la qualité ou à l'absence de vice ou de défaut des Services, à l'éviction et à la non violation des lois et règlements ou des présentes conditions d'utilisation des Services par d'autres Utilisateurs.<br /><br />
+
+Toute donnée, et en particulier tout logiciel, téléchargé(e) par l'Utilisateur, ou obtenu(e) de toute autre manière lors de l'utilisation du Service, l'est à ses risques et périls. L'Utilisateur est seul responsable de tout dommage subi par son ordinateur ou toute perte de données consécutive au téléchargement de ces données ou à la consultation et l'utilisation des Services.<br /><br />
+
+Aucun conseil et aucune information, qu'ils soient oraux ou écrits, obtenus par l'Utilisateur de <SITE_NAME> ou lors de l'utilisation des Services ne sont susceptibles de créer de garanties non expressément prévues par les présentes CGU.<br /><br />
+
+L'Utilisateur reconnaît que son utilisation du Service se fait à ses risques et périls.<br />
+Le Service lui est fourni « en l'état » et est accessible sans aucune garantie de disponibilité et de régularité.<br />
+<SITE_NAME> s'efforcera de rendre les Services accessibles 24 heures sur 24, sept jours sur sept, sauf en cas de force majeure ou d'un événement hors du contrôle de <SITE_NAME> et sous réserve des périodes de maintenance, des pannes éventuelles, des aléas techniques liés à la nature du réseau internet ou des actes de malveillance ou toute atteinte portée au matériel ou aux logiciels de <SITE_NAME>.<br /><br />
+
+<SITE_NAME> ne pourra en aucun cas être tenue pour responsable en raison d'une interruption d'un Service quelque soit la cause, la durée ou la fréquence de cette interruption.<br /><br />
+
+Les taux de transfert et les temps de réponse des informations circulant à partir de la plateforme de <SITE_NAME> vers internet ne sont pas garantis par <SITE_NAME>.<br />
+L'Utilisateur reconnaît que la vitesse de transmission des informations ne dépend pas des Services offerts par <SITE_NAME>, mais des caractéristiques inhérentes aux réseaux de communications électronique et des caractéristiques techniques de son mode de connexion (RTC, câble, ADSL etc) et de son accès internet.<br />
+
+<SITE_NAME> ne fournit aucune assistance personnalisée, ni « hot line ».<br />
+Les Utilisateurs peuvent cependant adresser des remarques sur les Services à <SITE_NAME> par l'intermédiaire d'un formulaire de contact disponible en ligne sans pour autant que cela crée une obligation de réponse ou de traitement par <SITE_NAME>.</p>
+
+<p>15) Indemnités.<br />
+Vous acceptez de défendre, d'indemniser et de tenir à couvert <SITE_NAME>, <COMPANY_NAME>, ses propriétaires, ses directeurs, ses administrateurs, ses modérateurs, ses préposés, ses agents, ses partenaires et ses salariés, ainsi que ses filiales et ses affiliés, contre toute perte, responsabilité, réclamation, revendication, action, demande, obligation, garantie, indemnité, réclamation, plainte ou responsabilité, ou tout dommage, procès, devoir, compte, dépenses et frais, y compris sans limitation les frais juridiques, honoraires d’avocats et comptables, provoquée ou résultant à l'utilisation de ce Site et/ou des Services de <SITE_NAME> ou de votre violation des termes du présent Contrat et/ou résultant du non-respect quelconque de ce Contrat et/ou du non-respect quelconque de vos déclarations et garanties définies ci-dessus et/ou si tout Contenu que vous publiez sur le site Web <SITE_NAME> ou par le biais des Services <SITE_NAME> rend <SITE_NAME> responsable envers d’autres personnes, pour autant que cette responsabilité soit imputable à une conduite blâmable.</p>
+
+<p>16) Divers.<br /> 
+Ce Contrat est accepté dès votre utilisation du site <SITE_NAME>, ses sous-domaines et les autres services de <SITE_NAME> et est confirmé par le fait que vous devenez Membre.<br />
+Ce Contrat représente la totalité de l’accord entre vous et <SITE_NAME> en ce qui concerne l’utilisation des Services de <SITE_NAME>.<br />
+L’incapacité de <SITE_NAME> à exercer ou à appliquer tout droit ou disposition de ce Contrat ne pourra pas être considérée comme une renonciation au droit ou à la disposition concernés.<br /> 
+Les titres des sections du présent Contrat sont donnés afin de faciliter la lecture et n’ont aucun effet légal ni contractuel.<br />
+Ce Contrat s’applique dans toute la mesure autorisée par la loi.<br />
+Si une disposition quelconque de ce Contrat s’avère invalide, illégale, nulle ou inapplicable, cette disposition est considérée comme indépendante du Contrat et n’a aucune influence sur la validité et l’application des autres dispositions.</p>
+<p>&nbsp;</p>
+<p style="color:#ff0000;font-weight:bold;">x) J'AI LU LES TERMES ET J'ACCEPTE TOUTES LES DISPOSITIONS CONTENUES CI-DESSUS.</p>
+<p><small>Dernière modification : vendredi 17 janvier 2014.</small></p>
